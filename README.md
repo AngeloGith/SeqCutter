@@ -3,8 +3,9 @@
 
 # Requirements 
 
-* Perl
-* Bio::SeqIO module from BioPerl
+
+* Bio::SeqIO
+* Getopt::Long;
 
 # Usage
 
