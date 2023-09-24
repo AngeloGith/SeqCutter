@@ -3,6 +3,9 @@ use strict;
 use Bio::SeqIO;
 use Getopt::Long;
 
+#By Angelo Armijos Carrion.
+#run (perl SeqCutter.pl -df cluster_definition -f fasta_file.fasta > output.fasta)
+
 # Variables for the options
 my $cluster_definition;
 my $fasta_file;
