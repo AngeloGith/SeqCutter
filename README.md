@@ -17,3 +17,13 @@
 -f: Path to the FASTA file containing the sequences.
 
 -o: Path to the output file where the extracted subsequences will be saved.
+
+
+```plaintext
+# -df (Cluster Definition File Format)
+# Each line should contain a sequence ID, start position, and end position, separated by tabs.
+
+SEQ1    100     200
+SEQ2    50      150
+SEQ3    75      175
+
